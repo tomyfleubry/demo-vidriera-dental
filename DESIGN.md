@@ -196,6 +196,9 @@ fila: sin tarjeta interior, fondo propio ni radio anidado.
 Hero combina esquinas amplias y cortas alternadas; el comparador tiene radio
 propio y variante móvil. Botones, filtros y etiquetas son píldoras; manija
 y acceso flotante son círculos. Los iconos de acciones son SVG de línea.
+WhatsApp usa el símbolo de marca de Bootstrap Icons, relleno en currentColor
+y sin trazo agregado; en el flotante su caja es de 27 × 27 px sin encogimiento.
+Fuente y licencia MIT: THIRD-PARTY-LICENSES.txt.
 
 ## Components
 
