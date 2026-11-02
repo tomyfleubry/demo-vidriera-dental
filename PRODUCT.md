@@ -27,12 +27,11 @@ implantología), Dr. Martín Aguirre (ortodoncia), Dra. Lucía Ferrer
 (odontopediatría y estética).
 
 ## Capabilities and Constraints
-Ocho tratamientos con filtro por grupo: Todos, Prevención, Estética,
-Ortodoncia, Implantes y prótesis. Comparador arrastrable y con teclado;
+Ocho tratamientos en acordeón nativo, con consulta específica por tratamiento. Comparador arrastrable y con teclado;
 si se retoca una foto para simular el cambio, identificarlo como simulación,
 nunca como caso clínico real. FAQ, cuatro pasos, precios orientativos:
 limpieza desde $45.000, blanqueamiento desde $180.000, evaluación sin cargo.
-WhatsApp placeholder5491100000000 SOLO hero, cierre y flotante. Sin checkout.
+WhatsApp placeholder5491100000000 en hero, cierre, flotante y ocho tratamientos. Sin checkout.
 Horarios lunes a viernes9–19, sábado9–13. Belgrano, CABA; @dentalserena.
 Datos ficticios del brief: +10 años, 4,9/5 en reseñas, turnos en la semana.
 
@@ -56,4 +55,4 @@ de ficción en footer, noindex y robots. Recorrido grabado sin IA obligatorio.
 
 ## Accessibility & Inclusion
 430 px sin overflow, foco visible, anclas libres y botón hero en una línea.
-Filtros, comparador y FAQ con teclado; alternativa sin JS y movimiento reducido.
+Tratamientos y comparador con teclado; preguntas visibles, alternativa sin JS y movimiento reducido.
